@@ -1,1 +1,0 @@
-// Validators for tweet module
